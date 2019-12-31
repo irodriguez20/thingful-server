@@ -20,7 +20,7 @@
     "express": "^4.16.4",
     "helmet": "^3.21.2",
     "jsonwebtoken": "^8.5.1",
-    "knex": "^0.16.3",
+    "knex": "^0.19.5",
     "morgan": "^1.9.1",
     "pg": "^7.8.0",
     "treeize": "^2.1.2",
@@ -35,7 +35,8 @@
   },
   "contributors": [
     "Thomas `tomatao` Hudspith-Tatham <iammotivated@gmail.com>",
-    "Joshua Reade Harris <jharris@thinkful.com>"
+    "Joshua Reade Harris <jharris@thinkful.com>",
+    "India Rodriguez <carnes.s.ia17@gmail.com>"
   ],
   "license": "MIT"
 }
